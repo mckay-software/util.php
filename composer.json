@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Common utilities.",
     "keywords": ["html5", "utility", "time", "slug"],
-    "license": "Proprietary",
+    "license": "MIT",
     "authors": [
     	{
     		"name": "Félix Saparelli",
